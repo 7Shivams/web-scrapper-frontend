@@ -24,6 +24,9 @@ npm install
 npm start
 ```
 
+### Env
+REACT_APP_CLIENT_ID=your google client ID
+
 ### Google OAuth Setup
 1. Go to [Google Cloud Console](https://console.cloud.google.com/)
 2. Create a new project
